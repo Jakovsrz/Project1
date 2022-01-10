@@ -1,3 +1,3 @@
 # projekat
-Projekat realizovan od strane Ivana Vaskovića i Radoša Živića
-Najjaci smo
+Projekat realizovan od strane studenata IT Bootcampa
+
